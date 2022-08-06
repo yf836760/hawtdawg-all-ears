@@ -1,4 +1,4 @@
 #Profile
 
 ##Skills
-football, basketball
+football, basketball, ping-pong
